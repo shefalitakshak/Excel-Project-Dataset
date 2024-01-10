@@ -1,4 +1,4 @@
-# Excel-Project-Dataset
+# Excel-Project- Bike Sales in Europe Dashboard
 This is an end to end Excel Project.
 In this Project I have used a dataset of Bike Sales in Europe with some other information like customer Id, Age, Commute distance and others.
 Using the dataset I have created a dashboard of the Bike Sales of that dataset.
